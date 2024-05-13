@@ -1,21 +1,19 @@
 import React from "react";
 
-// Sample testimonials data
 const testimonialsData = [
   {
     id: 1,
     name: "Aditi Singh",
     location: "Lucknow, Uttar Pradesh",
     message:
-      "This product has revolutionized our workflow and increased productivity!",
+      "This has truly elevated our construction projects, optimizing our processes and boosting overall effectiveness!",
     avatar: "https://i.pravatar.cc/150?img=11",
   },
   {
     id: 2,
     name: "Aarav Patel",
     location: "Kanpur, Uttar Pradesh",
-    message:
-      "Incredible value for the price. It's a must-have for professionals in any field.",
+    message: "Incredible value for the price.",
     avatar: "https://i.pravatar.cc/150?img=12",
   },
   {
