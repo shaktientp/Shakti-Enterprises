@@ -19,7 +19,7 @@ const Contact = () => {
           </div>
           <div className="mt-8 text-gray-800 text-2xl">
             <p className="font-bold text-3xl mb-2">Email:</p>
-            <p>info@example.com</p>
+            <p>customercare@shaktientp.com</p>
           </div>
           <div className="mt-8 text-gray-800 text-2xl">
             <p className="font-bold text-3xl mb-2">Address:</p>
