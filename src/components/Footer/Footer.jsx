@@ -65,7 +65,7 @@ const Footer = () => {
               <FontAwesomeIcon icon={faEnvelope} className="mr-2" />
               <span>Email: </span>
               <a href="mailto:info@example.com" className="text-blue-400">
-                info@example.com
+                customercare@shaktientp.com
               </a>
             </p>
             <p className="text-xl mb-2">
